@@ -14,3 +14,53 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+
+.table{
+  box-shadow:5px -5px 10px rgb(79 79 79 / 81%);
+  border-radius: 5px;
+  background: black;
+}
+
+/* 
+.MuiDataGrid-main {
+  border-radius: 5px;
+  background: rgb(0 0 0 / 87%);
+  color: white;
+}
+
+.MuiDataGrid-columnHeaders {
+  background: rgb(0 0 0 / 87%);
+  color: rgb(58, 188, 240);
+  font-weight: 600;
+}
+
+
+.MuiDataGrid-footerContainer {
+  background: rgb(0 0 0 / 87%);
+}
+
+.MuiDataGrid-columnHeader{
+  color: rgb(58, 188, 240) ;
+}
+
+
+.MuiSvgIcon-root{
+  color: rgb(58, 188, 240);
+}
+
+.MuiDataGrid-sortIcon{
+  color: red;
+}
+
+.MuiTablePagination-root{
+  color: white;
+}
+
+.MuiTablePagination-displayedRows{
+  color: white;
+} */
+/* .MuiDataGrid-columnSeparator--sideRight{
+  display: none;
+} */
